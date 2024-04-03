@@ -3,15 +3,18 @@
     <img src="/assets/svg/logo.svg"/>
     <h2>{{title}}</h2>
     <ng-content {{form}}></ng-content>
-
       <div class="btn-wrapper">
-        <button class="btn-primary" (click)="submit">{{primaryBtnText}}</button>
+        <button
+        class="btn-primary"
+        (click)="submit()"
+        [disabled]="disablePrimaryBtn"
+        >{{primaryBtnText}}</button>
         <div class="divider">
           <div></div>
             <span>or</span>
           <div></div>
         </div>
-        <button class="btn-secundary">{{secundaryBtnText}}</button>
+        <button class="btn-secundary" (click)="navegate()">{{secundaryBtnText}}</button>
     </div>
 
   </section>

@@ -2,8 +2,11 @@
   title= "Login into your account"
   primaryBtnText= "Login Now"
   secundaryBtnText= "Signup Now"
+  (submit)="submit()"
+  (navegate)="navegate()"
+  [disablePrimaryBtn]="!loginForms.valid"
 >
-  <form [formGroup]="LoginForms">
+  <form [formGroup]="loginForms">
       <app-primary-input
         formControlName="email"
         inputName="email"
