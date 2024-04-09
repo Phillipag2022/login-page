@@ -18,7 +18,7 @@ CLI angular
 Clonagem
 Como clonar seu projeto
 
-git clone https://github.com/Fernanda-Kipper/login-page.git
+git clone https://github.com/Phillipag2022/login-page.git
 Iniciando
 Como iniciar seu projeto
 
@@ -35,7 +35,7 @@ rota	descrição
 /login	Página para fazer login
 /user	Página protegida que somente usuários logados podem acessar
 📫 Contribua
-git clone https://github.com/Fernanda-Kipper/text-editor.git
+git clone https://github.com/Phillipag2022/text-editor.git
 git checkout -b feature/NAME
 Siga os padrões de commit
 Abra um Pull Request explicando o problema resolvido ou recurso realizado, se existir, anexe screenshot das modificações visuais e aguarde a revisão!
