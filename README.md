@@ -17,7 +17,7 @@
 
 
 <p align="center">
-    <img src="./.github/page-login.svg" alt="Image Example" width="400px">
+    <img src="./.github/login.svg.svg" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 About</h2>
