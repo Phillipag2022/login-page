@@ -17,7 +17,7 @@
 
 
 <p align="center">
-    <img src="./.github/login.png" alt="Image Example" width="400px">
+    <img src="./.github/page-login.svg" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 About</h2>
@@ -75,4 +75,3 @@ Here you can list the main routes of your API, and what are their expected reque
 [📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
 [💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
-
