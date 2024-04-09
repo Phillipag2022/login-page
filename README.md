@@ -1,13 +1,15 @@
 Exemplo de página de login em Angular 💻
 angular texto datilografado
 
-📌 Sobre
+
 Este projeto é um aplicativo simples de login e inscrição desenvolvido durante meu vídeo no YouTube para demonstrar como criar aplicativos Angular com autenticação e integração com back-end.
 
 🚀 Primeiros passos
+
 Aqui você descreve como executar seu projeto localmente
 
 Pré-requisitos
+
 Aqui você lista todos os pré-requisitos necessários para execução do seu projeto. Por exemplo:
 
 NodeJS
@@ -21,8 +23,11 @@ Iniciando
 Como iniciar seu projeto
 
 cd project-name
+
 npm run start
+
 📍 Rotas de aplicação
+
 Aqui você pode listar as principais rotas da sua API e quais são os corpos de solicitação esperados.​
 
 rota	descrição
